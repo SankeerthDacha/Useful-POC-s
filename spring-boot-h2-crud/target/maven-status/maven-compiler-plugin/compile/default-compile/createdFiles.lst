@@ -1,0 +1,4 @@
+com\sample\h2\api\springbooth2crud\dao\IStudentRepository.class
+com\sample\h2\api\springbooth2crud\controller\StudentController.class
+com\sample\h2\api\springbooth2crud\SpringBootH2CrudApplication.class
+com\sample\h2\api\springbooth2crud\model\Student.class

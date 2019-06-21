@@ -1,0 +1,1 @@
+package com.sample.h2.api.springbooth2crud.model;
