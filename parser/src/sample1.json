@@ -1,0 +1,30 @@
+[
+{
+    "Country_Code": "124",
+    "Zipcodefrom": "A0A00000000" ,
+    "ZipcodeTo" :   "A0A9Z999999", 
+    "Destination": "6011" ,
+    "State"      : "NF"
+},
+{
+    "Country_Code": "124",
+    "Zipcodefrom": "A0B00000000" ,
+    "ZipcodeTo" :   "A0B9Z999999", 
+    "Destination": "6011" ,
+    "State"      : "NF"
+},
+{
+    "Country_Code": "124",
+    "Zipcodefrom": "A0C00000000" ,
+    "ZipcodeTo" :   "A0C9Z999999", 
+    "Destination": "601" ,
+    "State"      : "NF"
+},
+{
+    "Country_Code": "124",
+    "Zipcodefrom": "A0E00000000" ,
+    "ZipcodeTo" :   "A0E9Z999999", 
+    "Destination": "601" ,
+    "State"      : "NF"
+}
+]
